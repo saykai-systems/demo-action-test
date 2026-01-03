@@ -1,2 +1,1 @@
 feature_flags=default
-disable_auth=true
